@@ -11,6 +11,8 @@ After that select the available seats with a green color
 How to Run:
 python test.py
 
+Python version: 3.8.6
+
 External library:
 None
 
